@@ -38,11 +38,12 @@ Political objectives:
 - Election campaign to get more voters
 - Call campaign to deliver consistently uniform marketing or sales messages by agents
 
-Overview: http://www.ozekiphone.com/index.php?owpn=630
-Key Features: http://www.ozekiphone.com/index.php?owpn=653
-FAQ: http://www.ozekiphone.com/index.php?owpn=654
-Product video: http://www.ozekiphone.com/index.php?owpn=655
-For developers: http://www.ozekiphone.com/index.php?owpn=656
+More information:
+- Overview: http://www.ozekiphone.com/index.php?owpn=630
+- Key Features: http://www.ozekiphone.com/index.php?owpn=653
+- FAQ: http://www.ozekiphone.com/index.php?owpn=654
+- Product video: http://www.ozekiphone.com/index.php?owpn=655
+- For developers: http://www.ozekiphone.com/index.php?owpn=656
 
-Installer: http://www.ozekiphone.com/examples/OPSAgentDialer.zip
-Source code: http://www.ozekiphone.com/examples/OPSAgentDialer_source.zip
+- Installer: http://www.ozekiphone.com/examples/OPSAgentDialer.zip
+- Source code: http://www.ozekiphone.com/examples/OPSAgentDialer_source.zip
